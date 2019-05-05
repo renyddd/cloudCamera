@@ -27,7 +27,8 @@ Page({
       success: res => {
         // 返回文件 ID
         console.log(res.fileID)
-        wx.showToast({ // 提示成功信息
+        wx.showToast({ 
+          // 提示成功信息
           title: '上传成功',
         })
       },
