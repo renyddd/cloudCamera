@@ -10,5 +10,9 @@
     <image wx:if="{{src}}" mode="widthFix" src="{{src}}"></image>
   </view>
 
+    <view class="btn-area">
+      <button type="primary" bindtap="addPush">上传云端</button>
+    </view>
 
+  <text>{{src}}</text>
 </view>
