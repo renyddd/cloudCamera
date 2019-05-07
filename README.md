@@ -22,11 +22,11 @@ ___
 <img src="https://7265-reny-71868c-1259083074.tcb.qcloud.la/photos/Screenshot_20190507_182302_com.tencent.mm.jpg?sign=aa1255c5d245bc0579217c09e45ff575&t=1557226819" width = 30% height = 30% />
  上传成功则会有相应提示
 
+## 后期开发计划
+- 后期完成读取云端照片的能力
+- 读取自己、或其他用户上传的照片
+
 ## 参考文档
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 - [CameraContext](https://developers.weixin.qq.com/miniprogram/dev/api/CameraContext.html?search-key=camera)
-
-## 计划
-
-- 开发浏览云端照片功能
