@@ -10,7 +10,7 @@
 		"autoAudits": false,
 		"checkInvalidKey": true
 	},
-	"appid": "type your appid",
+	"appid": "wx006f72e99dbfff39",
 	"projectname": "cloudCamera",
 	"libVersion": "2.2.5",
 	"simulatorType": "wechat",
