@@ -9,7 +9,7 @@ ___
 
 ## 图片展示
 
-![摄像使用头申请](https://7265-reny-71868c-1259083074.tcb.qcloud.la/photos/Screenshot_20190507_182208_com.tencent.mm.jpg?sign=6ccfda04c3b5ec7069b7578e1d25f704&t=1557224718)
+<img src="https://7265-reny-71868c-1259083074.tcb.qcloud.la/photos/Screenshot_20190507_182208_com.tencent.mm.jpg?sign=6ccfda04c3b5ec7069b7578e1d25f704&t=1557224718" width = 30% height = 30% />
 
 
 
