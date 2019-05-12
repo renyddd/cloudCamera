@@ -26,6 +26,9 @@ ___
 <img src="https://7265-reny-71868c-1259083074.tcb.qcloud.la/photos/Screenshot_20190507_182302_com.tencent.mm.jpg?sign=aa1255c5d245bc0579217c09e45ff575&t=1557226819" width = 30% height = 30% />
  上传成功则会有相应提示
 
+## 欢迎老师扫码使用
+<img src="https://7265-reny-71868c-1259083074.tcb.qcloud.la/photos/gh_2058f9c2b9e4_258.jpg?sign=d956b85725859371865c5923dc71c3f0&t=1557625374" width = 30% height = 30% />
+
 ## 后期开发计划
 - 后期完成读取云端照片的能力
 - 读取自己、或其他用户上传的照片
