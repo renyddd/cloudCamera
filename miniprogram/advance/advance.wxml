@@ -1,0 +1,7 @@
+<!--miniprogram/pages/advance/advance.wxml-->
+<!-- new line -->
+<text>\n</text>
+<text>\n</text>
+<view>我的微信：{{contents}} </view>
+<text>\n</text>
+<button class="btn"  bindtap='copyText' data-text="{{contents}}">复制加我好友</button>

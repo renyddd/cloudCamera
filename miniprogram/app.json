@@ -1,11 +1,31 @@
 {
   "pages": [
-    "index/index"
+    "index/index",
+    "advance/advance",
+    "bashrc/bashrc",
+    "config/config",
+    "crontab/crontab",
+    "fsatb/fstab",
+    "group/group",
+    "hosts/hosts",
+    "ifcfg/ifcfg",
+    "inittab/inittab",
+    "issue/issue",
+    "mtab/mtab",
+    "pages/pages",
+    "passwd/passwd",
+    "profile/profile",
+    "resolv/resolv",
+    "shadow/shadow",
+    "shells/shells",
+    "sysctl/sysctl",
+    "useradd/useradd",
+    "yumconfig/yumconfig"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F8F8F8",
-    "navigationBarTitleText": "cloudCamera",
+    "navigationBarTitleText": "MFActives",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
