@@ -5,7 +5,7 @@
     "bashrc/bashrc",
     "config/config",
     "crontab/crontab",
-    "fsatb/fstab",
+    "fstab/fstab",
     "group/group",
     "hosts/hosts",
     "ifcfg/ifcfg",
@@ -20,7 +20,11 @@
     "shells/shells",
     "sysctl/sysctl",
     "useradd/useradd",
-    "yumconfig/yumconfig"
+    "yumconfig/yumconfig",
+    "anacrontab/anacrontab",
+    "chrony.sh/chrony.sh",
+    "iptables-config/iptables-config",
+    "functions/functions"
   ],
   "window": {
     "backgroundTextStyle": "light",

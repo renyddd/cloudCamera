@@ -47,6 +47,14 @@
 
 <navigator url="/yumconfig/yumconfig?title=yumconfig" hover-class="navigator-hover" class=".page-body-form-item">/etc/yum.conf</navigator>
 
+<navigator url="/anacrontab/anacrontab?title=anacrontab" hover-class="navigator-hover" class=".page-body-form-item">/etc/anacrontab</navigator>
+
+<navigator url="/chrony.sh/chrony.sh?title=chrony.sh" hover-class="navigator-hover" class=".page-body-form-item">/etc/dhcp/dhclient.d/chrony.sh</navigator>
+
+<navigator url="/iptables-config/iptables-config?title=iptables-config" hover-class="navigator-hover" class=".page-body-form-item">/etc/sysconfig/iptables-config</navigator>
+
+<navigator url="/functions/functions?title=functions" hover-class="navigator-hover" class=".page-body-form-item">/etc/rc.d/init.d/functions</navigator>
+
 <!-- 
 <navigator url="/profile/profile?title=profile" hover-class="navigator-hover" class=".page-body-form-item">跳转到新页面</navigator>
  -->
