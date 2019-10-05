@@ -25,7 +25,6 @@
     "chrony.sh/chrony.sh",
     "iptables-config/iptables-config"
     ,"functions/functions"
-,"fuck/fuck"
   ],
   "window": {
     "backgroundTextStyle": "light",

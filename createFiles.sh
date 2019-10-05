@@ -2,6 +2,9 @@
 # To create the wx files.
 # $1 the file name to create.
 # $2 the file url.
+# Done!
+# yidongren, 2019100521:27
+# Run this in the right directory!
 
 cd /f/someRrpositories/cloudCamera/miniprogram/ 
 
@@ -29,16 +32,20 @@ cat > $wxmlfile << EOF
 EOF
 
 # How to get the PATHNAME? 
+filename=$1".html"
 # Just need the right path of HTML files.
-htmlpath=`sed -n '/first.lisp.html/p' /f/someRrpositories/test/first.lisp.html |awk -v FS='>' '{print $2}' |awk -v FS='<' '{print $1}'`
+navishow=`sed -n "/title/p" /f/someRrpositories/MFActive-Administrator/$filename |awk -v FS='>' '{print $2}' |awk -v FS='<' '{print $1}'`
 # Right action, just need to change the FILEPATH to var.
 
 # manipulate the index.wxml and the app.json files, and change to the right directory.
 cd ../
-sed -i "/foundMe/i <navigator url=\"/$1/$1?title=$1\" hover-class=\"navigator-hover\" class=\".page-body-form-item\">$htmlpath</navigator> \n" index/index.wxml
+sed -i "/foundMe/i <navigator url=\"/$1/$1?title=$1\" hover-class=\"navigator-hover\" class=\".page-body-form-item\">$navishow</navigator> \n" index/index.wxml
+# Try with the right dir.
+# Don't forget to write the right name.
 
 echo finished the index.wxml
 
 sed -i "/],/i ,\"$1/$1\"" app.json
 
 echo finished the app.json
+exit 0
