@@ -55,6 +55,11 @@
 
 <navigator url="/functions/functions?title=functions" hover-class="navigator-hover" class=".page-body-form-item">/etc/rc.d/init.d/functions</navigator>
 
+<navigator url="/fuck/fuck?title=fuck" hover-class="navigator-hover" class=".page-body-form-item">/f/someRrpositories/test/first.lisp.html</navigator> 
+
+<!-- foundMe -->
+<!-- 自动化生成的寻找标记 -->
+
 <!-- 
 <navigator url="/profile/profile?title=profile" hover-class="navigator-hover" class=".page-body-form-item">跳转到新页面</navigator>
  -->

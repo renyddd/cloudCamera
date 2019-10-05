@@ -23,8 +23,9 @@
     "yumconfig/yumconfig",
     "anacrontab/anacrontab",
     "chrony.sh/chrony.sh",
-    "iptables-config/iptables-config",
-    "functions/functions"
+    "iptables-config/iptables-config"
+    ,"functions/functions"
+,"fuck/fuck"
   ],
   "window": {
     "backgroundTextStyle": "light",
